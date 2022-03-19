@@ -1,8 +1,10 @@
-﻿# Slingshot
+# Slingshot
 
-Simple command line utility to organize your Tibia screenshots into sub-folders.
+[English](#english) / [Português](#português)
 
 # English
+
+Simple command line utility to organize your Tibia screenshots into sub-folders.
 
 ## What does this do?
 
@@ -10,25 +12,25 @@ Moves the screenshot images in the Tibia folder into sub-folders depending on th
 
 Example of the results:
 
-```bash
+```
 Tibia Folder
 |--- screenshots
 |    |--- Aragorn
 |    |    |--- Achievement
 |    |    |--- BossDefeated
-|    |    |    |--- 2021-03-24_181034186_Aragorn_BossDefeated.png				<-- Defeated the Nazgul
+|    |    |    |--- 2021-03-24_181034186_Aragorn_BossDefeated.png       <-- Defeated the Nazgul
 |    |    |--- DeathPvE
 |    |    |--- LevelUp
 |    |    |--- LowHealth
 |    |    |--- SkillUp
 |    |--- Gandalf
 |    |    |--- Achievement
-|    |    |    |--- 2021-09-11_201423412_Gandalf_Achievement.png				<-- New White Wizard outfit
-|    |    |    |--- 2021-06-01_163617752_Gandalf_Achievement.png				<-- New Shadowfax mount
+|    |    |    |--- 2021-09-11_201423412_Gandalf_Achievement.png        <-- New White Wizard outfit
+|    |    |    |--- 2021-06-01_163617752_Gandalf_Achievement.png        <-- New Shadowfax mount
 |    |    |--- BossDefeated
-|    |    |    |--- 2021-09-11_201423412_Gandalf_BossDefeated.png				<-- Against the Balrog
+|    |    |    |--- 2021-09-11_201423412_Gandalf_BossDefeated.png       <-- Against the Balrog
 |    |    |--- DeathPvE
-|    |    |    |--- 2021-09-11_201423412_Gandalf_DeathPvE.png					<-- Against the Balrog
+|    |    |    |--- 2021-09-11_201423412_Gandalf_DeathPvE.png           <-- Against the Balrog
 |    |    |--- Hotkey
 |    |    |--- LevelUp
 |    |    |--- LowHealth
@@ -36,7 +38,7 @@ Tibia Folder
 |    |--- Galadriel
 |    |--- Frodo
 |         |--- Achievement
-|              |--- 2022-03-12_163115024_Frodo_Achievement.png					<-- New Eagle mount (service quest)
+|              |--- 2022-03-12_163115024_Frodo_Achievement.png          <-- New Eagle mount (service quest)
 ```
 
 You can run it multiple times and will move any new screenshots to the sub-folders.
@@ -44,9 +46,9 @@ Note that IT WILL NOT move a file if there's already one with the same name.
 
 ## What this DOES NOT do?
 
-> In absulutely NO CIRCUNSTANCES this program will directly transmit ANY data to the Internet and/or touch ANY files in your computer beyond the ones being mvoed into the sub-folders.
-This program will not ask ANY information beyond the location of the Tibia screenshots folder.
-IN NO CIRCUNSTANCES IT WILL ASK ANY PERSONAL INFORMATION OR ACCOUNT INFORMATION TO ACCESS THE GAME.
+> In absulutely NO CIRCUNSTANCES this program will directly transmit ANY data to the Internet and/or touch ANY files in your computer beyond the ones being mvoed into the sub-folders. 
+
+> This program will not ask ANY information beyond the location of the Tibia screenshots folder. IT WILL NEVER ASK ANY PERSONAL INFORMATION OR ACCOUNT INFORMATION TO ACCESS THE GAME.
 
 ## How to "install" the program?
 
@@ -73,4 +75,4 @@ You can customize the folder path by passing a parameter in the shortcut from th
 
 Check out if Tibia is running. It might not let the app to access the files in that case.
 
-# Portuguese
+# Português
