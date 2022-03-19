@@ -1,8 +1,6 @@
 # Slingshot
 
-[English](#english) / [Português](#português)
-
-# English
+Docs em [Português](./README_pt-br.md).
 
 Simple command line utility to organize your Tibia screenshots into sub-folders.
 
@@ -12,7 +10,7 @@ Moves the screenshot images in the Tibia folder into sub-folders depending on th
 
 Example of the results:
 
-```
+```text
 Tibia Folder
 |--- screenshots
 |    |--- Aragorn
@@ -50,7 +48,7 @@ Note that IT WILL NOT move a file if there's already one with the same name.
 
 > This program will not ask ANY information beyond the location of the Tibia screenshots folder. IT WILL NEVER ASK ANY PERSONAL INFORMATION OR ACCOUNT INFORMATION TO ACCESS THE GAME.
 
-## How to "install" the program?
+## How to use
 
 - Download the zip file from the releases page: (link to page here).
 - Right-click on the .zip file and then `Extract All...`
@@ -74,5 +72,3 @@ You can customize the folder path by passing a parameter in the shortcut from th
 ## Help! It's not finding any files to copy
 
 Check out if Tibia is running. It might not let the app to access the files in that case.
-
-# Português
