@@ -52,7 +52,7 @@ Note que o programa NÃO irá mover um arquivo se a pasta de destinho já possui
 
 ## Como usar
 
-- Baixe o arquivo zip da página de downlaods: (link here).
+- Baixe o arquivo zip da [página de downloads](https://github.com/hnrqbaggio/slingshot/releases).
 - Clique com o botão direito no .zip e escolha `Extract All...`
 - O Windows irá peguntar o local para extrair os arquivos. Qualquer pasta server. Marque a opção `show files after extracting` para abrir a pasta de destino.
 - Clique com o botão direito no arquivo `Slingshot.exe` e selecione `Send To` > `Desktop (Create Shortcut)`.
