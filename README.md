@@ -50,7 +50,7 @@ Note that IT WILL NOT move a file if there's already one with the same name.
 
 ## How to use
 
-- Download the zip file from the releases page: (link to page here).
+- Download the zip file from the [releases page](https://github.com/hnrqbaggio/slingshot/releases).
 - Right-click on the .zip file and then `Extract All...`
 - Windows will ask where you want to extract the files. Any place is fine. Check the "shows files after extracting" option to open the folder.
 - Right-click on `Slingshot.exe` and select `Send To` > `Desktop (Create Shortcut)`.
